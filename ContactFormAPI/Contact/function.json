@@ -20,7 +20,7 @@
       "type": "sendGrid",
       "name": "message",
       "apiKey": "SendGrid",
-      "to": "<YOUR EMAIL ADDRESS>",
+      "to": "<martin.hueppauff@gmx.de>",
       "direction": "out"
     }    
   ]
